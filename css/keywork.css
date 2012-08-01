@@ -1,0 +1,16 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background: #000;
+  transition: 1s background;
+}
+canvas#keywork {
+  left: 50%;
+  margin: -250px 0 0 -250px;
+  position: absolute;
+  top: 50%;
+  width: 500px;
+}

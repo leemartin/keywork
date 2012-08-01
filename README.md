@@ -1,4 +1,4 @@
-keywork
+The Keywork
 =======
 
-Coheed and Cambria's "Keywork" Countdown Clock
+A Countdown Clock built for Coheed and Cambria's "The Afterman" announcement. For more information, read [this blog](http://leemart.in/keywork).
